@@ -85,5 +85,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For questions or support, please contact:
 - **Name**: Haider Jan
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: [janhaider040@gmail.com](janhaider040@gmail.com)
